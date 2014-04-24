@@ -1,7 +1,7 @@
 thymeleaf
 =========
 
-Thymeleaf samples
+Thymeleaf sample
 
 - <b>th-spring-integration</b>: Sample of an HTML 5 web application using Thymeleaf for its presentation layer and Spring for the backend. The data access layer connects to MongoDB through Spring Data.
 
