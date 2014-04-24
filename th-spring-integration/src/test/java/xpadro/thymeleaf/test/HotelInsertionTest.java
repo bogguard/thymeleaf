@@ -8,8 +8,8 @@ import org.springframework.data.mongodb.core.MongoOperations;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import xpadro.thymeleaf.configuration.WebAppConfiguration;
-import xpadro.thymeleaf.model.Guest;
+import net.persgroep.poc.thymeleaf.configuration.WebAppConfiguration;
+import net.persgroep.poc.thymeleaf.model.Guest;
 
 @org.springframework.test.context.web.WebAppConfiguration
 @RunWith(SpringJUnit4ClassRunner.class)
