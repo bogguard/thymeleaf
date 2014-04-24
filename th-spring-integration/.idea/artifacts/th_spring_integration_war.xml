@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="th-spring-integration:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="th-spring-integration.war">
+      <element id="artifact" artifact-name="th-spring-integration:war exploded" />
+    </root>
+  </artifact>
+</component>
