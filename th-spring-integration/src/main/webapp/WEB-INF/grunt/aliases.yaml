@@ -1,0 +1,13 @@
+default:
+  - 'concurrent:second'
+  - 'concurrent:third'
+  - 'bless:dev'
+  - 'notify:server'
+  - 'watch:dev'
+
+prod:
+  - 'concurrent:first'
+  - 'concurrent:third'
+  - 'bless:prod'
+  - 'notify:server'
+  - 'watch:prod'
